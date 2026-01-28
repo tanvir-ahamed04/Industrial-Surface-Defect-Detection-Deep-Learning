@@ -1,0 +1,7 @@
+Defect Type,Test Images,Detected,Correctly Classified,Average Confidence,Detection Rate (%)
+Crazing,1,1,1,0.172,100
+Inclusion,1,0,0,0.0,0
+Patches,1,0,0,0.106,0
+Pitted Surface,1,0,0,0.0,0
+Rolled-in Scale,2,1,1,0.479,50
+Scratches,1,0,0,0.0,0
